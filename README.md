@@ -43,7 +43,7 @@ Performed Exploratory Data analysis on Lending club's Loans dataset for the give
 
 ## Acknowledgements
 
-This Project is completed by Mohamed Basith , Monika Dadich for the submission of Lending Club case study.
+This Project is completed by Monika Dadich for the submission of Lending Club case study.
 
 ## Contact
 Created by [@githubusername] - feel free to contact me!
